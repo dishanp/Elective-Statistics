@@ -3,7 +3,7 @@ A script written in C++ that generates a summary indicating trends among student
 
 What's Needed?
 
-A List Of What Subjects Students Have Selected
+A Text File Containing A List Of What Subjects Students Have Selected
 
 What's Generated?
 
